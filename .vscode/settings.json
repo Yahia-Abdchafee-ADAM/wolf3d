@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "wolf3d_header.h": "c",
+        "cstdlib": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
